@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khan Qais</h1>
 <h3 align="center">A passionate frontend developer and backend developer</h3>
 
-- 🌱 I’m currently learning **Node js and Express js**
+- 🌱 I’m currently learning **React JS**
 
-- 📫 How to reach me **qaiskhan34914@gmail.com**
+- 📫 How to reach me **qais34913@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
