@@ -135,16 +135,6 @@ Mentorship platform connecting students with alumni — real-time chat, webinars
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=khanqais&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=6)
-
-</div>
-
----
-
 ## 📌 A Few Things About Me
 
 - 🎯 250+ DSA problems solved across LeetCode & GFG
