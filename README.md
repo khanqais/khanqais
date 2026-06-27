@@ -4,7 +4,7 @@
 
 </div>
 
----
+***
 
 ```cpp
 // Who am I?
@@ -17,12 +17,11 @@ class KhanQais {
     string email    = "qais34913@gmail.com";
 
     vector<string> stack = {
-        "Next.js", "React", "Node.js", "Express",
+       "Golang", "Next.js", "React", "Node.js", "Express",
         "MongoDB", "PostgreSQL", "Redis", "TypeScript"
     };
 
     vector<string> currently = {
-        "Learning Golang",
         "Building scalable full-stack systems",
         "Solving DSA problems daily"
     };
@@ -33,13 +32,28 @@ class KhanQais {
 };
 ```
 
----
+***
 
 ## ∴ Featured Work
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+**[🏪 Tradexa](https://github.com/khanqais/tradexa)**
+
+`Go` `Gin` `PostgreSQL` `Redis` `React`
+
+A full-stack peer-to-peer marketplace with fixed-price listings and live proxy-bidding auctions — built for speed, concurrency-safety, and real-time interactivity.
+
+- Proxy (auto) bidding with anti-snipe protection & reserve price
+- Real-time bid feed via SSE + WebSocket notifications & chat
+- Row-level locking with zero data races
+- ~1,678 bids/sec throughput · 438 µs latency per bid
+- 🌐 Live → [tradexa-1-zcv6.onrender.com](https://tradexa-1-zcv6.onrender.com)
+
+</td>
+<td width="33%" valign="top">
 
 **[🧠 ScaleCode — AlgoGrid](https://github.com/khanqais/ScaleCode)**
 
@@ -53,7 +67,7 @@ A DSA revision platform built on spaced repetition and confidence decay. Forget 
 - 🌐 Live → [algogrid.dev](https://www.algogrid.dev)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[🎓 AlumniConnect](https://github.com/khanqais/AlumniConnect)**
 
@@ -70,7 +84,7 @@ Mentorship platform connecting students with alumni — real-time chat, webinars
 </tr>
 </table>
 
----
+***
 
 ## ⚙️ Tech Stack
 
